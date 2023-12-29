@@ -1,4 +1,4 @@
-![Captura de Tela 2023-12-27 às 19 26 47](https://github.com/AndersonRigonatto/JavaScript-training-projects/assets/111210996/5d24c631-65a5-45e8-bb65-dcc91f1316c3)
+![Captura de Tela 2023-12-28 às 23 06 44](https://github.com/AndersonRigonatto/JavaScript-training-projects/assets/111210996/f003cb4d-410c-4268-9bce-be5e295874b5)
 ## [PT-BR] 🗣️🇧🇷
 Esta é uma aplicação aonde treinei criar janelas popups
 
