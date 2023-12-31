@@ -25,4 +25,7 @@ In this project I developed a game called Pig Game. It is played in 2 players wi
 - Hold: The current points are saved in the accumulated score, the turn passes
 
 ## 🇧🇷 Imagens / 🇺🇸 Images
+![Captura de Tela 2023-12-30 às 00 09 39](https://github.com/AndersonRigonatto/JavaScript-training-projects/assets/111210996/6cfcc795-186a-4537-9098-50b50d81262a)
+![Captura de Tela 2023-12-30 às 00 10 28](https://github.com/AndersonRigonatto/JavaScript-training-projects/assets/111210996/a8ab51f9-9b20-4eef-b0f4-b10763f30d30)
+![Captura de Tela 2023-12-30 às 00 11 08](https://github.com/AndersonRigonatto/JavaScript-training-projects/assets/111210996/0c87190d-dfbe-45d8-9719-ebd5ade83cef)
 
